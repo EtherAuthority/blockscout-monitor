@@ -15,7 +15,7 @@ This repository contains a shell script that monitors the status of the BlockSco
    Open a terminal on your Linux Ubuntu server and run the following command to clone the repository:
 
    ```sh
-   git clone https://github.com/dwarkesh8/blockscout-monitor.git
+   git clone https://github.com/EtherAuthority/blockscout-monitor.git
   
 2. **Make file executable**
 
